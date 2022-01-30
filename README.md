@@ -1,6 +1,3 @@
-# neuro-praktikum-g9
-Approach of group 9 within the 'Neuronale Netze Praktikum' - WS '21/22
-
 # Models
 Provided as .ipynb notebooks in the models folder. The cells can be executed directly without any prerequisites. \
 These Models are provided: MLP, LSTM
